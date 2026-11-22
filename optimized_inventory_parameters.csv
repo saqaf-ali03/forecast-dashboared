@@ -1,0 +1,4 @@
+Category,Optimal_Model,Forecasted_Demand_MT_Month,Safety_Stock_MT,Reorder_Point_ROP_MT,Economic_Order_Quantity_EOQ_MT,Average_Inventory_Level_MT,Annual_Holding_Cost_USD
+Optical Brighteners,3M_MA,33.12,20.42,119.79,19.94,80.07,16014.83
+Functional Finishes,3M_MA,18.1,15.7,70.0,14.74,50.22,10043.42
+Dye Intermediates,"ARIMA(1,1,1)",45.53,25.09,161.68,23.37,105.07,21013.66
