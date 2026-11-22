@@ -23,7 +23,7 @@ st.set_page_config(
 @st.cache_data
 def generate_synthetic_data():
     categories = ['Optical Brighteners', 'Functional Finishes', 'Dye Intermediates']
-    months = pd.date_range(start='2022-01', end='2025-12', freq='M')
+    months = pd.date_range(start='2022-01', end='2025-12', freq='ME')
     n_months = len(months)
     records = []
     t = np.arange(n_months)
